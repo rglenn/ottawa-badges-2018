@@ -1,0 +1,7 @@
+Info: Front side (top side) place file: 'C:\Projects\ottawa-badges-2016\pcb\cam\ottawa-badges-2016-staff-panel-top.pos'.
+Info: Component count: 142.
+Info: Back side (bottom side) place file: 'C:\Projects\ottawa-badges-2016\pcb\cam\ottawa-badges-2016-staff-panel-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 142
+
+Componment Placement File generation OK.
