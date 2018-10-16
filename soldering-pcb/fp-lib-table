@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BadgeParts)(type KiCad)(uri ${KIPRJMOD}/../pcb/BadgeParts.pretty)(options "")(descr ""))
+  (lib (name makey)(type KiCad)(uri ${KIPRJMOD}/../floating-pcb/makey.pretty)(options "")(descr ""))
+)

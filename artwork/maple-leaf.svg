@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310"
+   height="310"
+   version="1.1"
+   id="svg817"
+   sodipodi:docname="maple-leaf.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Projects\ottawa-badges-2018\artwork\maple-leaf.png"
+   inkscape:export-xdpi="598.66718"
+   inkscape:export-ydpi="598.66718">
+  <metadata
+     id="metadata823">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs821" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview819"
+     showgrid="false"
+     inkscape:zoom="1.8863784"
+     inkscape:cx="59.658741"
+     inkscape:cy="113.03929"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg817" />
+  <path
+     d="m 13.227806,286.74835 -2.310351,4.31005 c -0.26217,0.46844 -0.731899,0.42513 -1.201628,0.16349 l -1.672808,-0.86644 1.246639,6.62039 c 0.262171,1.20949 -0.57892,1.20935 -0.994035,0.68638 l -2.919267,-3.26859 -0.473881,1.65995 c -0.05465,0.21799 -0.294867,0.44687 -0.655368,0.39235 l -3.691485,-0.77624 0.969548,3.52572 c 0.207557,0.78451 0.369599,1.10915 -0.209393,1.31605 l -1.315777,0.61851 6.354367,5.16263 c 0.251513,0.1952 0.378693,0.5464 0.289154,0.86446 l -0.556163,1.82561 c 2.187926,-0.25226 4.148229,-0.63181 6.337263,-0.86554 0.193246,-0.0206 0.516799,0.29836 0.515472,0.52235 l -0.05906,1.36052 h 0.6993 l -0.03385,-1.34629 c -0.0013,-0.224 0.292337,-0.55721 0.485584,-0.53658 2.189033,0.23373 4.149338,0.61328 6.337262,0.86554 l -0.556162,-1.82561 c -0.08954,-0.31806 0.03764,-0.66926 0.289154,-0.86446 l 6.354367,-5.16263 -1.315777,-0.61851 c -0.578994,-0.2069 -0.41695,-0.53154 -0.209393,-1.31605 l 0.969548,-3.52572 -3.691486,0.77624 c -0.360499,0.0545 -0.600712,-0.17436 -0.655367,-0.39235 l -0.473882,-1.65995 -2.919266,3.26859 c -0.415116,0.52297 -1.256207,0.52311 -0.994035,-0.68638 l 1.246639,-6.62039 -1.672808,0.86644 c -0.469741,0.26164 -0.939457,0.30495 -1.201628,-0.16349 z"
+     id="path815"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.09218673" />
+</svg>
